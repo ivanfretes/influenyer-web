@@ -25,7 +25,7 @@ Hacer Fork del repositorio, realizar actualizaciones en su repositorio.
   - Formulario de contacto
   - Nombre 
   - Apellido
-  - Producto (debe ser un <select>)
+  - Producto (debe ser un **select**)
   - Comentarios
 
  
