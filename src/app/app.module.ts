@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 //import { ProductosComponent } from './components/compartido/productos/productos.component';
 
 @NgModule({
-  declarations: [
+  declarations: [  
     AppComponent,
     //MenuComponent,
     //ContactosComponent,
